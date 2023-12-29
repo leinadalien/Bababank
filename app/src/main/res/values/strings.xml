@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Bababank</string>
+    <string name="app_name">Банкъ</string>
+    <string name="welcome_message">Добро пожаловать!</string>
 </resources>
